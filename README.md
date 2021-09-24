@@ -2,7 +2,7 @@
  
 ## Description: 
 
-This is a position-independent shellcode (PIC) which
+This is a shellcode (PIC) that
 pop a calc.exe, in order to accomplish this task the shellcode uses
 the PEB method to locate the baseAddress of the required module and the Export Directory Table
 to locate symbols. Also the shellcode uses a hash function to gather dynamically the required 
