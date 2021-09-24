@@ -1,4 +1,4 @@
-# (Windows/x86) Null-free Position-Independent shellcode (PIC) -  WinExec PopCalc
+# Windows/x86 Dynamic WinExec PopCalcs PEB & Export Directory Table
  
 ## Description: 
 
